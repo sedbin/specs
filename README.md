@@ -1,5 +1,7 @@
 # Sedbin
 
+[![Join the chat at https://discord.gg/b6vZDZs](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://discord.gg/b6vZDZs)
+
 Sedbin is a concept of proof of work blockchain with shared
 security. Similar to merge mining, it allows multiple blockchains to
 use the same source of PoW, thus increases the security and better
